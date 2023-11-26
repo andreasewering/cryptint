@@ -1,5 +1,5 @@
 # cryptint extension
 comment = 'Encryption functions for int and bigint values'
-default_version = '1.0.0'
+default_version = '1.0.1'
 module_pathname = '$libdir/cryptint'
 relocatable = true
